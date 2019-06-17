@@ -1,11 +1,10 @@
 ---
 title: Betriebswirtschaft und Management
-author: 5BHIF 2018/19
+subtitle: Vorbereitungsmaterialien für die Matura
 papersize: a4
 lang: de
 documentclass: scrreprt
 ...
-
 
 # 1 Externe Unternehemensrechnung
 
